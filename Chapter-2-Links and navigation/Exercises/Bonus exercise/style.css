@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+/* For Navbar */
+.navbar{
+    height: 8rem;
+    background-color: rgb(20, 19, 19);
+    color: red;
+    text-align: center;
+    margin-top: 1px;
+}
+
+h1{
+    font-display: bolder;
+}
+
+.btn{
+    margin: 1rem;
+    color: red;
+    display: inline;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+
+button{
+    background-color: yellow;
+    text-align: center;
+}
+
+#webbtn{
+    color: black;
+    margin: 2rem;
+    font-size: large;
+    text-align: center;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+/* For sub-heading */
+.subheading{
+    color: red;
+    margin: 1rem;
+    font-size: larger;
+}
+
+/* For contentbox */
+.contentbox{
+    margin: 1rem;
+    font-size: large;
+    color: aliceblue;
+}
+
+/* For ol and ul */
+ol{
+    margin: 1rem;
+}
+
+ul{
+    margin: 1rem;
+}
+
+/* For button */
+button{
+    margin: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#webbtn{
+    margin: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
